@@ -1,4 +1,4 @@
-St. Lawrence University
+## St. Lawrence University
 
 Financial Economics
 
@@ -6,7 +6,7 @@ Development Economic
 
 -----
 
-The University of Oklahoma: 
+## The University of Oklahoma: 
 
 Introduction to Macroeconomics(Summer 2018)
 
