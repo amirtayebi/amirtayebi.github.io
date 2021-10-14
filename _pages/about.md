@@ -12,6 +12,7 @@ redirect_from:
 I am a Ph.D. candidate at the University of Oklahoma, currently visiting St. Lawrence University. My primary research interest is in applied macroeconomics, including topics in growth and development. I am also interested in financial economics, credit markets, and political economy of finance.
 
 Curriculum Vitae 
+
 Email: amir.tayebi-1@ou.edu
 
 <!-- Default Statcounter code for Job 2
