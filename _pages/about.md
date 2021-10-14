@@ -13,7 +13,7 @@ I am a Ph.D. candidate at the University of Oklahoma, currently visiting St. Law
 
 Curriculum Vitae 
 
-Email: amir.tayebi-1@ou.edu
+Email: [amir.tayebi-1@ou.edu](amir.tayebi-1@ou.edu)
 
 <!-- Default Statcounter code for Job 2
 https://amirtayebi.github.io/ -->
