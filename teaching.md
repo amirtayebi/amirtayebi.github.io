@@ -1,6 +1,6 @@
 ## St. Lawrence University
 
-[Financial Economics](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/_pages/financial.md)
+[Financial Economics](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/_pages/financial.html)
 
 Development Economic
 
