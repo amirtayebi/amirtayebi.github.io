@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: "Financial Economics"
+title: "Teaching experience 2"
+collection: teaching
+type: "Workshop"
 permalink: /teaching/financial
-
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 **Course discription**: This course introduces you to investing or constructing a portfolio of assets in order to meet specific financial goals. 
 We will first cover the investment process and fundamental concepts such as the investment
