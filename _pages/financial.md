@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Financial Economics"
+permalink: /teaching/financial
+
+---
 **Course discription**: This course introduces you to investing or constructing a portfolio of assets in order to meet specific financial goals. 
 We will first cover the investment process and fundamental concepts such as the investment
 environment and investment information. In the second part of the course, we will discuss the important
