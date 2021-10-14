@@ -7,7 +7,7 @@ In the fifth part of the lecture, we will cover important concepts in portfolio 
 we will discuss derivative securities such as options and futures.
 
 
-**Syllabus**
+[**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON313_1_Syllabus.pdf)
 **The investment Project**
 
 
