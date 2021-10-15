@@ -7,7 +7,6 @@ permalink: /teaching/economic_development/
 venue: "St. Lawerence University, Department of Economics"
 location: "City, Country"
 ---
-[**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf).   
 
 
 **Course discription**: Development economics is a diverse eld addressing a range of vital issues. How can we accurately identify,
@@ -20,9 +19,9 @@ readings, lecture, and discussion.
 [**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf).   
 
 
+**Homework Assignments:**.   
+[Homework 1](/files/HW 1.pdf) [Solutions](/files/HW 1 Solutions.pdf).   
+[Homework 2](/files/ECON 336 HW 2.pdf) [Solutions](/files/ECON 336 HW 2 Solutions.pdf).   
 
-**Homework Assignments:**
-
-
-
-**Exams:**
+**Exams:**.   
+[Exam 1](/files/ECON 336 Test1.pdf).  
