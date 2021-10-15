@@ -7,6 +7,8 @@ venue: "St. Lawerence University, Department of Economics"
 date: 2020-01-01
 location: "City, Country"
 ---
+[**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON313_1_Syllabus.pdf). 
+
 
 **Course discription**: This course introduces you to investing or constructing a portfolio of assets in order to meet specific financial goals. 
 We will first cover the investment process and fundamental concepts such as the investment
