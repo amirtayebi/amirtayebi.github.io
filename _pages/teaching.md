@@ -28,8 +28,9 @@ You can find the teaching materials for each each course here.
     - [Syllabus](/files/Econ 3113 Syllabus Summer 2019.pdf) 
     - [Evaluations](/files/Summer 2019.pdf)
 - ECON 1123: Principle of Economics-Macro (Summer 2018)
-    - [Syllabus](/files/Syllabus__2021_OU.pdf) 
+    - [Syllabus](/files/Syllabus.pdf) 
     - [Evaluations](/files/Summer 2018.pdf)
+
 
 
 
