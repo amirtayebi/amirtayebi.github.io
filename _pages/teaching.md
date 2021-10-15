@@ -24,10 +24,10 @@ You can find the teaching materials for each each course here.
 - ECON 1123: Principle of Economics-Micro (Summer 2020)
     - [Syllabus](/files/Syllabus 2020.pdf) 
     - [Evaluations](/files/Summer 2020.pdf)
-- ECON 1123: Intermidiate Microeconomics (Summer 2019)
+- ECON 3113: Intermidiate Microeconomics (Summer 2019)
     - [Syllabus](/files/Econ 3113 Syllabus Summer 2019.pdf) 
     - [Evaluations](/files/Summer 2019.pdf)
-- ECON 1123: Principle of Economics-Macro (Summer 2018)
+- ECON 1113: Principle of Economics-Macro (Summer 2018)
     - [Syllabus](/files/Syllabus.pdf) 
     - [Evaluations](/files/Summer 2018.pdf)
 
