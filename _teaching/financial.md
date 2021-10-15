@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Financial Economics"
 collection: teaching
-type: "Workshop"
+type: "Fall"
 permalink: /teaching/financial_economics
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "St. Lawerence University, Department of Economics"
+date: 2020-01-01
 location: "City, Country"
 ---
 
