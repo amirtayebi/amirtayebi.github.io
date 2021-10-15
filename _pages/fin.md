@@ -17,9 +17,9 @@ we will discuss derivative securities such as options and futures.
 [**The investment Project**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/Project.pdf). 
 
 
-**Homework Assignments:**. 
-[Homework 1](/files/ECON 313 HW 1.pdf) [Solutions](/files/ECON 313 HW 1 Solutions.pdf). 
-[Homework 2](/files/ECON 313 HW 2.pdf) [Solutions](/files/ECON 313 HW 2 Solutions.pdf). 
+**Homework Assignments:**.   
+[Homework 1](/files/ECON 313 HW 1.pdf) [Solutions](/files/ECON 313 HW 1 Solutions.pdf).   
+[Homework 2](/files/ECON 313 HW 2.pdf) [Solutions](/files/ECON 313 HW 2 Solutions.pdf).   
 
-**Exams:**. 
-[Exam 1](/files/ECON 313 Test1 Solutions.pdf)
+**Exams:**.   
+[Exam 1](/files/ECON 313 Test1 Solutions.pdf).   
