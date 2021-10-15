@@ -2,7 +2,7 @@
 title: "Financial Economics"
 collection: teaching
 type: "Fall"
-permalink: /teaching/financial_economics
+permalink: /teaching/financial_economics/
 venue: "St. Lawerence University, Department of Economics"
 date: 2020-01-01
 location: "City, Country"
