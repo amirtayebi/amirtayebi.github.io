@@ -3,8 +3,6 @@ title: "Financial Economics"
 permalink: /financial/
 
 ---
-[**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON313_1_Syllabus.pdf). 
-
 
 **Course discription**: This course introduces you to investing or constructing a portfolio of assets in order to meet specific financial goals. 
 We will first cover the investment process and fundamental concepts such as the investment
@@ -20,7 +18,8 @@ we will discuss derivative securities such as options and futures.
 
 
 **Homework Assignments:**
-
-
+[Homework 1](/files/ECON 313 HW 1.pdf) [Solutions](/files/ECON 313 HW 1 Solutions.pdf)
+[Homework 2](/files/ECON 313 HW 2.pdf) [Solutions](/files/ECON 313 HW 2 Solutions.pdf)
 
 **Exams:**
+[Exam 1](/files/ECON 313 Test1 Solutions.pdf)
