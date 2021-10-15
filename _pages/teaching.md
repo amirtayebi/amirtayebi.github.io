@@ -14,7 +14,7 @@ You can find the teaching materials for each each course here.
 ## St. Lawerence University
 - ECON 313: [Financial Economics](/financial/) (Fall 2021)
     - [Syllabus](/files/ECON313_1_Syllabus.pdf)
-- ECON 336: [Development Economics](/teaching/economic_development/) (Fall 2021)
+- ECON 336: [Economic Development](/teaching/economic_development/) (Fall 2021)
     - [Syllabus](/files/ECON336_Syllabus.pdf) 
 
 ## The University of Oklahoma
