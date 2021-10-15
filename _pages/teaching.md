@@ -15,9 +15,9 @@ You can find the teaching materials for each each course here.
 - ECON 313: [Financial Economics](/financial/) (Fall 2020)
     - [Syllabus](/files/ECON313_1_Syllabus.pdf)
 - ECON 336: [Development Economics](/teaching/economic_development/) (Fall 2020)
-    - [Syllabus](/files/ECON336_Syllabus.pdf)
+    - [Syllabus](/files/ECON336_Syllabus.pdf) 
 
 ## The University of Oklahoma
 - ECON 100: Principle of Economics-Micro (Summer 2020)
-    - [Syllabus](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf)
+    - [Syllabus](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf) [Evaluations](/files/Summer 2021.pdf)
 
