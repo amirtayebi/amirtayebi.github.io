@@ -2,9 +2,9 @@
 title: "Financial Economics"
 collection: teaching
 type: "Fall"
+date: 2020-01-01
 permalink: /teaching/financial_economics/
 venue: "St. Lawerence University, Department of Economics"
-date: 2020-01-01
 location: "City, Country"
 ---
 [**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON313_1_Syllabus.pdf). 
