@@ -12,10 +12,10 @@ You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
 You can find the teaching materials for each each course here.
 
 ## St. Lawerence University
-- ECON 313: [Financial Economics](/_teaching/finacial) (Fall 2020)
+- ECON 313: [Financial Economics](/_teaching/finacial/) (Fall 2020)
     - [Syllabus](/files/ECON313_1_Syllabus.pdf)
 - ECON 336: Development Economics (Fall 2020)
-    - [Syllabus](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf)
+    - [Syllabus](/files/ECON336_Syllabus.pdf)
 
 ## The University of Oklahoma
 - ECON 100: Principle of Economics-Micro (Summer 2020)
