@@ -12,13 +12,24 @@ You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
 You can find the teaching materials for each each course here.
 
 ## St. Lawerence University
-- ECON 313: [Financial Economics](/financial/) (Fall 2020)
+- ECON 313: [Financial Economics](/financial/) (Fall 2021)
     - [Syllabus](/files/ECON313_1_Syllabus.pdf)
-- ECON 336: [Development Economics](/teaching/economic_development/) (Fall 2020)
+- ECON 336: [Development Economics](/teaching/economic_development/) (Fall 2021)
     - [Syllabus](/files/ECON336_Syllabus.pdf) 
 
 ## The University of Oklahoma
-- ECON 100: Principle of Economics-Micro (Summer 2020)
+- ECON 1123: Principle of Economics-Micro (Summer 2021)
     - [Syllabus](/files/Syllabus__2021_OU.pdf) 
     - [Evaluations](/files/Summer 2021.pdf)
+- ECON 1123: Principle of Economics-Micro (Summer 2020)
+    - [Syllabus](/files/Syllabus__2021_OU.pdf) 
+    - [Evaluations](/files/Summer 2020.pdf)
+- ECON 1123: Intermidiate Microeconomics (Summer 2019)
+    - [Syllabus](/files/Syllabus__2021_OU.pdf) 
+    - [Evaluations](/files/Summer 2019.pdf)
+- ECON 1123: Principle of Economics-Macro (Summer 2018)
+    - [Syllabus](/files/Syllabus__2021_OU.pdf) 
+    - [Evaluations](/files/Summer 2018.pdf)
+
+
 
