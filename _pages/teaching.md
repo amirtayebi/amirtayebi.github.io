@@ -19,5 +19,6 @@ You can find the teaching materials for each each course here.
 
 ## The University of Oklahoma
 - ECON 100: Principle of Economics-Micro (Summer 2020)
-    - [Syllabus](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf) [Evaluations](/files/Summer 2021.pdf)
+    - [Syllabus](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf) 
+    - [Evaluations](/files/Summer 2021.pdf)
 
