@@ -9,7 +9,7 @@ My primary research interest is in applied macroeconomics, including topics in g
 You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
 
 ## Reserach Papers
-- How Does Democratization Affect the Production of Knowledge?
+- **How Does Democratization Affect the Production of Knowledge? (Job Market Paper)**
     - This paper investigates the relationship between democratization and knowledge for-mation. Using bibliographic and patents data, we show that there is a positive andstrong impact of democratization on the formation of knowledge in social sciences andbusiness but not in other fields and patenting activity. We confirm these findings usingan instrumental variable approach to correct for the endogeneity problems, originatingfrom the unobservables that affect both innovation and democratization and from mea-surement errors in quantifying democracy indices. Our instrumental variable resultsare in line with our baseline results. In fact, they indicate that there is a downward biasin the baseline result, which is likely to stem from measurement errors in quantifyingdemocracy indices and unobservables. Finally, our results are robust to a number es-timation methods, outliers, alternative construction of our IV, and different measuresof human capital.
 
 - **The Electoral Outcomes of Contractions in Mortgage Credits** 
