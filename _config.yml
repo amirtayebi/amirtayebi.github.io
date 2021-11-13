@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amir Tayebi"
 title_separator          : "-"
 name                     : &name "Amir Tayebi"
-description              : &description "Ph.D. Candidate in Economics"
+description              : &description "PhD Candidate in Economics"
 url                      : https://amirtayebi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/amirtayebi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amir Tayebi"
   avatar           : "Avatarnew.jpg"
-  bio              : "Ph.D. Candidate in Economics and Visiting Instructor at St. Lawrence University"
+  bio              : "PhD Candidate in Economics and Visiting Instructor at St. Lawrence University"
   location         : "Canton, NY"
   employer         :
   pubmed           : 
