@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 
 
-**Course discription**: Development economics is a diverse eld addressing a range of vital issues. How can we accurately identify,
+**Course description**: Development economics is a diverse eld addressing a range of vital issues. How can we accurately identify,
 measure, and alleviate poverty? Why is not the whole world developed? What can history teach us about the
 process of development and about the prospects for the future? What is the role of geography, institutions,
 and trade? What are the current issues in development? This course will cover many of these topics through
@@ -22,8 +22,9 @@ readings, lecture, and discussion.
 **Homework Assignments:**.   
 [Homework 1](/files/ECON 336 HW 1.pdf)   
 [Homework 2](/files/ECON 336 HW 2.pdf)   
-[Homework 1](/files/ECON 336 HW 3.pdf)   
-[Homework 2](/files/ECON 336 HW 4.pdf)    
+[Homework 3](/files/ECON 336 HW 3.pdf)   
+[Homework 4](/files/ECON 336 HW 4.pdf)    
 
 **Exams:**.   
 [Exam 1](/files/ECON 336 Test1.pdf).  
+[Exam 2](/files/ECON 336 Test2.pdf).  
