@@ -26,5 +26,5 @@ readings, lecture, and discussion.
 [Homework 4](/files/ECON 336 HW 4.pdf)    
 
 **Exams:**.   
-[Exam 1](/files/ECON 336 Test1.pdf).  
-[Exam 2](/files/ECON 336 Test2.pdf).  
+[Exam 1](/files/ECON_336_Test1.pdf).  
+[Exam 2](/files/ECON_336_Test2.pdf).  
