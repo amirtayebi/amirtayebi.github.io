@@ -33,6 +33,6 @@ we will discuss derivative securities such as options and futures.
 
 
 **Exams:**  
-[Exam 1](/files/ECON_313_Test1.pdf).  
-[Exam 2](/files/ECON_313_Test2.pdf).
+[Exam 1](/files/ECON_313_Test_1.pdf).  
+[Exam 2](/files/ECON_313_Test_2.pdf).
 
