@@ -1,6 +1,6 @@
 ---
 title: "Financial Economics"
-permalink: /teaching/financial_economics/
+permalink: /teaching/financial/
 
 ---
 [**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON313_1_Syllabus.pdf). 
