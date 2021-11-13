@@ -15,11 +15,16 @@ In the fifth part of the lecture, we will cover important concepts in portfolio 
 we will discuss derivative securities such as options and futures.
 
 
-[**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON313_1_Syllabus.pdf).   
-[**The investment Project**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/Project.pdf). 
+[**Syllabus**](/files/ECON313_1_Syllabus.pdf).   
+[**The investment Project**](files/Project.pdf). 
 
 
 **Homework Assignments:**
+Homework 1(/files/ECON 313 HW 1.pdf.pdf)
+Homework 2(/files/ECON 313 HW 2.pdf.pdf)
+Homework 3(/files/ECON 313 HW 3.pdf.pdf)
+Homework 4(/files/ECON 313 HW 4.pdf.pdf)
+Homework 5(/files/ECON 313 HW 5.pdf.pdf)
 
 
 
