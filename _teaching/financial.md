@@ -1,5 +1,5 @@
 ---
-title: "Economic Development"
+title: "Financial Economics"
 collection: teaching
 type: "Fall"
 date: 2021-01-01
