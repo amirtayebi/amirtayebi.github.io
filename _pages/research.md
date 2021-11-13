@@ -26,6 +26,6 @@ You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
 
 ## Work in progress
 - **International Bank Lending, Democracy, and Political Uncertainty (With Saleh Tabrizy, University of Oklahoma)**  
-- **The Opportunity Cost of Attending in Politics: Evidence from the U.S.
-- **Firms’ Board of Directors and Lobbying: Evidence from U.S.
+- **The Opportunity Cost of Attending in Politics: Evidence from the U.S.**
+- **Firms’ Board of Directors and Lobbying: Evidence from U.S.**
 
