@@ -2,7 +2,7 @@
 title: "Economic Development"
 collection: teaching
 type: "Fall"
-date: 2020-01-01
+date: 2021-01-01
 permalink: /teaching/economic_development/
 venue: "St. Lawerence University, Department of Economics"
 location: "City, Country"
@@ -20,8 +20,10 @@ readings, lecture, and discussion.
 
 
 **Homework Assignments:**.   
-[Homework 1](/files/HW 1.pdf) [Solutions](/files/HW 1 Solutions.pdf).   
-[Homework 2](/files/ECON 336 HW 2.pdf) [Solutions](/files/ECON 336 HW 2 Solutions.pdf).   
+[Homework 1](/files/ECON 336 HW 1.pdf)   
+[Homework 2](/files/ECON 336 HW 2.pdf)   
+[Homework 1](/files/ECON 336 HW 3.pdf)   
+[Homework 2](/files/ECON 336 HW 4.pdf)    
 
 **Exams:**.   
 [Exam 1](/files/ECON 336 Test1.pdf).  
