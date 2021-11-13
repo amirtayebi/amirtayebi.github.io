@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate at the University of Oklahoma, currently visiting St. Lawrence University. My primary research interest is in applied macroeconomics, including topics in growth and development. I am also interested in financial economics, credit markets, and political economy of finance.
+I am a Ph.D. candidate at the University of Oklahoma and a visiting instructor at St. Lawrence University. My primary research interests include applied macroeconomics and financial economics. In particular, I am interested in growth and development topics. I am also interested in political economy of finance and credit markets.
 
 Curriculum Vitae 
 
