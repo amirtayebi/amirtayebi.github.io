@@ -7,7 +7,6 @@ permalink: /teaching/financial/
 venue: "St. Lawerence University, Department of Economics"
 location: "City, Country"
 ---
-[**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON313_1_Syllabus.pdf). 
 
 
 **Course description**: This course introduces you to investing or constructing a portfolio of assets in order to meet specific financial goals. 
