@@ -10,14 +10,14 @@ My primary research interest is in applied macroeconomics, including topics in g
 
 ## Reserach Papers
 - **How Does Democratization Affect the Production of Knowledge? (Job Market Paper)** [Link](/files/Democracy.pdf)  
-- ***Winner** of the Chong Liew Research Award for Best Research Paper, 1st Place.*
-- ***Presented at**: Southern Economic Association Annual Meeting, 2020, The University of Oklahoma, 2020.*
+***Winner** of the Chong Liew Research Award for Best Research Paper, 1st Place.*
+***Presented at**: Southern Economic Association Annual Meeting, 2020, The University of Oklahoma, 2020.*
 
     - This paper investigates the relationship between democratization and knowledge formation. Using bibliographic and patents data, I show that there is a positive and strong impact of democratization on the formation of knowledge in social sciences and business but not in other fields and patenting activity. I confirm these findings using  an instrumental variable approach to correct for the endogeneity problems, originating from the unobservables that affect both innovation and democratization and from measurement errors in quantifying democracy indices. The instrumental variable results are in line with the baseline results. In fact, they indicate that there is a downward bias in the baseline result, which is likely to stem from measurement errors in quantifying democracy indices and unobservables. Finally, my results are robust to a number estimation methods, outliers, alternative construction of the IV, and different measures of human capital.
    
 
 - **The Electoral Outcomes of Contractions in Mortgage Credits** [Link](/files/Elections1.pdf)  
-- ***Presented at**: Southern Economic Association Annual Meeting, 2021, St. Lawrence University, 2021.*
+***Presented at**: Southern Economic Association Annual Meeting, 2021, St. Lawrence University, 2021.*
   - This paper investigates the effects of the conditions of the mortgage credit market on elections in U.S. From 2004 to 2008, the U.S economy experienced an unexpected shift from the most generous underwriting standards for mortgages to a strict shrinkage of mortgage credit during the financial crisis of 2007-2008. According to the previous research, voters responded to the financial crisis of 2007-2008 by punishing the incumbent party in the presidential election, meaning that the vote share of the incumbent party decreased. To further investigate the effects of the financial crisis on elections, I employ an individual-level dataset of loan application outcomes to examine the effects of the contraction in the mortgage credit market on the House and Gubernatorial elections of 2008. I estimate the effects of credit market conditions on political outcomes in two stages. The first-stage regression isolates a bank-specific measure of mortgage credit supply growth by controlling for the demand for credit. In the second stage, I estimate the effects of changes in the mortgage credit supply extracted from the first-stage regression on the change in votes for the candidate of the democratic party as well as the candidate from the challenger party. I find no significant impact of the shrinkage in mortgage credits on House and Gubernatorial elections' outcomes. This finding suggests that voters only punish the president for the change in mortgage credits as they may believe lower-level officials are not responsible for this shift.
 
 - **Elections, Political Races, and Mortgage Credit Market** (First Draft Coming Soon)  
