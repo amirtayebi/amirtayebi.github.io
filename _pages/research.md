@@ -6,7 +6,7 @@ permalink: /research/
 ---
 My primary research interest is in applied macroeconomics, including topics in growth and development. I am also interested in corporate finance, credit markets, and political economy of finance.
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
+
 
 ## Reserach Papers
 - **How Does Democratization Affect the Production of Knowledge? (Job Market Paper)** [Link](/files/Democracy.pdf)  
