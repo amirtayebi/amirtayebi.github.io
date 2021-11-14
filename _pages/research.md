@@ -25,7 +25,7 @@ My primary research interest is in applied macroeconomics, including topics in g
 
 
 - **Private Equity and Uncertainty: A Cross-country Analysis (With Sina Davoodi, University of Oregon)** (First Draft Coming Soon)  
-    -  in this paper, we make use of a news-based index of policy uncertainty to empirically investigate the relationship between policy uncertainty and  private equity firms’ investment. According to our preliminary results, in the presence of policy uncertainty, both number of deals and amount of investment decrease in buyout deals. In addition, policy uncertainty has a significant effect on private equity firms’ exit pattern.
+    -  In this paper, we make use of a news-based index of policy uncertainty to empirically investigate the relationship between policy uncertainty and  private equity firms’ investment. According to our preliminary results, in the presence of policy uncertainty, both number of deals and amount of investment decrease in buyout deals. In addition, policy uncertainty has a significant effect on private equity firms’ exit pattern.
 
 ## Work in progress
 - **International Bank Lending, Democracy, and Political Uncertainty (With Saleh Tabrizy, University of Oklahoma)**  
