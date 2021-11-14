@@ -20,10 +20,10 @@ readings, lecture, and discussion.
 
 
 **Homework Assignments:**    
-[Homework 1](/files/ECON 336 HW 1.pdf)   
+[Homework 1](/files/ECON 336 HW1.pdf)   
 [Homework 2](/files/ECON 336 HW 2.pdf)   
 [Homework 3](/files/ECON 336 HW 3.pdf)   
-[Homework 4](/files/ECON 336 HW 4.pdf)    
+[Homework 4](/files/ECON 336 HW4.pdf)    
 
 **Exams:**     
 [Exam 1](/files/ECON_336_Test_1.pdf)    
