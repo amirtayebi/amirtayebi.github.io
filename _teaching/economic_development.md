@@ -16,7 +16,7 @@ and trade? What are the current issues in development? This course will cover ma
 readings, lecture, and discussion.
 
 
-[**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf)    
+[**Syllabus**](/files/ECON336_Syllabus.pdf)    
 
 
 **Homework Assignments:**    
