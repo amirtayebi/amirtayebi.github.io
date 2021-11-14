@@ -4,8 +4,8 @@ title: "Teaching"
 ---
 
 
-You can view my teaching portfolio, icluding my teaching statement and summary of evaluations [here](/files/pdf/teaching/Portfolio.pdf).  
-You can find the teaching materials for each each course here.
+You can view my teaching portfolio, including my teaching statement and summary of evaluations [here](/files/pdf/teaching/Portfolio.pdf).  
+Below, please find the teaching materials for each course.
 
 ## St. Lawerence University
 - ECON 313: [Financial Economics](/teaching/financial/) (Fall 2021)
