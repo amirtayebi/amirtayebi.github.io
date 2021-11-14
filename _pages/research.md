@@ -10,7 +10,7 @@ My primary research interest is in applied macroeconomics, including topics in g
 
 ## Reserach Papers
 - **How Does Democratization Affect the Production of Knowledge? (Job Market Paper)** [Link](/files/Democracy.pdf)  
-***Winner** of the Chong Liew Research Award for Best Research Paper, 1st Place.*
+***Winner** of the Chong Liew Research Award for Best Research Paper, 1st Place.*  
 ***Presented at**: Southern Economic Association Annual Meeting, 2020, The University of Oklahoma, 2020.*
 
     - This paper investigates the relationship between democratization and knowledge formation. Using bibliographic and patents data, I show that there is a positive and strong impact of democratization on the formation of knowledge in social sciences and business but not in other fields and patenting activity. I confirm these findings using  an instrumental variable approach to correct for the endogeneity problems, originating from the unobservables that affect both innovation and democratization and from measurement errors in quantifying democracy indices. The instrumental variable results are in line with the baseline results. In fact, they indicate that there is a downward bias in the baseline result, which is likely to stem from measurement errors in quantifying democracy indices and unobservables. Finally, my results are robust to a number estimation methods, outliers, alternative construction of the IV, and different measures of human capital.
