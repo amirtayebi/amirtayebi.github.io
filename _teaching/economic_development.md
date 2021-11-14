@@ -22,7 +22,7 @@ readings, lecture, and discussion.
 **Homework Assignments:**    
 [Homework 1](/files/ECON 336 HW1.pdf)   
 [Homework 2](/files/ECON 336 HW 2.pdf)   
-[Homework 3](/files/ECON 336 HW 3.pdf)   
+[Homework 3](/files/ECON336 HW3.pdf)   
 [Homework 4](/files/ECON 336 HW4.pdf)    
 
 **Exams:**     
