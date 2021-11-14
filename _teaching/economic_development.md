@@ -16,7 +16,7 @@ and trade? What are the current issues in development? This course will cover ma
 readings, lecture, and discussion.
 
 
-[**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf).   
+[**Syllabus**](https://github.com/amirtayebi/amirtayebi.github.io/blob/master/files/ECON336_Syllabus.pdf)    
 
 
 **Homework Assignments:**.   
@@ -26,5 +26,5 @@ readings, lecture, and discussion.
 [Homework 4](/files/ECON 336 HW 4.pdf)    
 
 **Exams:**.   
-[Exam 1](/files/ECON_336_Test_1.pdf).  
-[Exam 2](/files/ECON_336_Test_2.pdf).  
+[Exam 1](/files/ECON_336_Test_1.pdf)    
+[Exam 2](/files/ECON_336_Test_2.pdf)   
