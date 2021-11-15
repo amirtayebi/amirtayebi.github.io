@@ -19,7 +19,7 @@ we will discuss derivative securities such as options and futures.
 
 
 [**Syllabus**](/files/ECON313_1_Syllabus.pdf)     
-[**The investment Project**](/files/Project.pdf)  
+[**The Investment Project**](/files/Project.pdf)  
 
 
 **Homework Assignments:**  
