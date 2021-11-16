@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 
-You can view my teaching portfolio, including my teaching statement and summary of evaluations [here](/files/pdf/teaching/Portfolio.pdf).  
+You can view my teaching portfolio, including my teaching statement and summary of evaluations [here](/files/Teaching Statement.pdf).  
 Below, please find the teaching materials for each course.
 
 ## St. Lawerence University
