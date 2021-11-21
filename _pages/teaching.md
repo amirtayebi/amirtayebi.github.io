@@ -28,5 +28,10 @@ Below, please find the teaching materials for each course.
     - [Evaluations](/files/Summer 2018.pdf)
 
 
+## Other Teaching Experiences
+- Teaching Assistant, Elements of Statistics (Spring 2017–Spring 2020)
+- Guest Lecturer, Elements of Statistics  (Fall 2019)
+
+
 
 
