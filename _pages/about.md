@@ -33,4 +33,5 @@ alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-google-site-verification: google98d9639def068923.html
+
+<meta name="google-site-verification" content="PkRdRYkkfeVasIvGjucfIbtBGwt5-XLHNNsK2-tG348" />
