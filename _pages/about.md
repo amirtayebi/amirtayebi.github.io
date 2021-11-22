@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  <meta name="google-site-verification" content="PkRdRYkkfeVasIvGjucfIbtBGwt5-XLHNNsK2-tG348" />
+
 ---
 
 
@@ -34,4 +36,3 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
 
-<meta name="google-site-verification" content="PkRdRYkkfeVasIvGjucfIbtBGwt5-XLHNNsK2-tG348" />
