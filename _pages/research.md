@@ -9,7 +9,7 @@ My primary research interest is in applied macroeconomics, including topics in g
 
 
 ## Research Papers
-- **How Does Democratization Affect the Production of Knowledge? (Job Market Paper)** [Link](/files/Democracy.pdf)  
+- **How Does Democratization Affect the Production of Knowledge? (Job Market Paper)** [Link](/files/Democracys.pdf)  
 ***Winner** of the Chong Liew Research Award for Best Research Paper, 1st Place.*  
 ***Presented at**: Southern Economic Association Annual Meeting, 2020, The University of Oklahoma, 2020.*
 
