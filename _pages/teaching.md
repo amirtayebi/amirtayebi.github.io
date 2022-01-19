@@ -13,7 +13,7 @@ Below, please find the teaching materials for each course.
     - [Evaluations](/files/Financial Economics 2 Summary of Evaluations.pdf) 
 - ECON 336: [Economic Development](/teaching/economic_development/) (Fall 2021)
     - [Syllabus](/files/ECON336_Syllabus.pdf) 
-- [Evaluations](/files/Development Economics Summary of Evaluations.pdf) 
+    - [Evaluations](/files/Development Economics Summary of Evaluations.pdf) 
 
 ## The University of Oklahoma  
 - ECON 3113: Intermediate Microeconomics (Summer 2019)
