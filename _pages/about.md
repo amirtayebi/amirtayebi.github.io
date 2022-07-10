@@ -11,11 +11,11 @@ redirect_from:
 ---
 
 
-I am a PhD candidate at the University of Oklahoma and a visiting instructor at St. Lawrence University. My primary research interests include applied macroeconomics and financial economics.  In particular, I am interested in growth and development topics. I am also interested in political economy of finance and credit markets.
+I recieved my PhD in Economics from the University of Oklahoma and will join the University of Wisconsin-La Crosse as an assistant professor this Fall. My primary research interests include applied macroeconomics and financial economics.  In particular, I am interested in growth and development topics. I am also interested in political economy of finance and credit markets.
 
 [Curriculum Vitae](/files/Amir CV.pdf)   
 
-Email: [amir.tayebi-1@ou.edu](mailto:amir.tayebi-1@ou.edu)
+Email: [atayebi@uwlax.edu](mailto:atayebi@uwlax.edu)
 
 <!-- Default Statcounter code for Job https://amirtayebi.github.io/ -->
 <script type="text/javascript">
