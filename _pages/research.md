@@ -9,7 +9,7 @@ My primary research interest is in applied macroeconomics, including topics in g
 
 
 ## Published and Forthcoming Papers
-- **How Does Democratization Affect the Production of Knowledge? (Job Market Paper)** [Link](https://link.springer.com/article/10.1007/s11127-024-01181-1)  
+- **How Does Democratization Affect the Production of Knowledge?** [Link](https://link.springer.com/article/10.1007/s11127-024-01181-1)  
    
 
 
