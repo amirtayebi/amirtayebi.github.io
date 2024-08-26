@@ -17,7 +17,7 @@ My primary research interest is in applied macroeconomics, including topics in g
 - **The Electoral Outcomes of Contractions in Mortgage Credits** [Link](/files/Elections1.pdf)  
 ***Presented at**: Southern Economic Association Annual Meeting, 2021, St. Lawrence University, 2021.*
 
-- **Elections, Political Races, and Mortgage Credit Market** [Link](/files/Elections_Political_Races_and_Mortgage_Credit_Market.pdf) 
+- **Elections, Political Races, and Mortgage Credit Market** [Link](/files/Elections_Political_Races_and_Mortgage_Credit_Market.pdf)
 ***Presented at**: Southern Economic Association Annual Meeting, 2022, Eastern Economic Association Annual Meeting, 2023.*
 
 - **Private Equity and Uncertainty: A Cross-country Analysis (With Sina Davoodi, University of Oregon)** (First Draft Coming Soon)  
