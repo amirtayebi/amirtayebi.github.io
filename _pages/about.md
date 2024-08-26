@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-I recieved my PhD in Economics from the University of Oklahoma and will join the University of Wisconsin-La Crosse as an assistant professor this Fall. My primary research interests include applied macroeconomics and financial economics.  In particular, I am interested in growth and development topics. I am also interested in political economy of finance and credit markets.
+I am an assistant professor of Economics at the University of Wisconsin-La Crosse. My primary research interests include applied macroeconomics and financial economics.  In particular, I am interested in growth and development topics. I am also interested in the political economy of finance and credit markets.
 
 [Curriculum Vitae](/files/Amir CV.pdf)   
 
