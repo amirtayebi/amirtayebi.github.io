@@ -23,7 +23,7 @@ My primary research interest is in applied macroeconomics, including topics in g
 - **Private Equity and Uncertainty: A Cross-country Analysis (With Sina Davoodi, University of Oregon)** (First Draft Coming Soon)  
 ***Presented at**: Southern Economic Association Annual Meeting, 2023.*
 
-- **The Role of Firm Age in the Impact of Right-to-Work Laws on Job Creation: Insights from Synthetic Control Analysis**(Under Review)
+- **The Role of Firm Age in the Impact of Right-to-Work Laws on Job Creation: Insights from Synthetic Control Analysis** With Israt Jahan (Under Review)
 
 ## Work in progress
 - **Entrepreneurship and Trade Shocks (With Saleh Tabrizy, University of Oklahoma)**
