@@ -4,17 +4,17 @@ title: "Research"
 permalink: /research/
 
 ---
-My primary research interest is in applied macroeconomics, including topics in growth and development. I am also interested in corporate finance, credit markets, and political economy of finance.
+My primary research interest is in applied macroeconomics, including topics in growth and development. I am also interested in corporate finance, credit markets, and the political economy of finance.
 
 
 
 ## Published and Forthcoming Papers
-- **Democratization and knowledge in social sciences** with Sheida Teimouri, Public Choice, Forthcoming. [Link](https://link.springer.com/article/10.1007/s11127-024-01181-1)  
+- **Democratization and knowledge in social sciences** with Sheida Teimouri, Public Choice, 2024. [Link](https://link.springer.com/article/10.1007/s11127-024-01181-1)  
    
 
 
 ## Working Papers
-- **The Electoral Outcomes of Contractions in Mortgage Credits**(Under Review) [Link](/files/Elections1.pdf)  
+- **The Electoral Outcomes of Contractions in Mortgage Credits** (R&R, Bulletin of Economic Research) [Link](/files/Elections1.pdf)  
 ***Presented at**: Southern Economic Association Annual Meeting, 2021, St. Lawrence University, 2021.*
 
 - **Elections, Political Races, and Mortgage Credit Market** [Link](/files/Elections_Political_Races_and_Mortgage_Credit_Market.pdf)  
