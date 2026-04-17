@@ -1,33 +1,29 @@
 ---
-
 title: "Research"
 permalink: /research/
-
 ---
+
 My primary research interest is in applied macroeconomics, including topics in growth and development. I am also interested in corporate finance, credit markets, and the political economy of finance.
 
-
-
 ## Published and Forthcoming Papers
-- **Democratization and knowledge in social sciences** with Sheida Teimouri, Public Choice, 2024. [Link](https://link.springer.com/article/10.1007/s11127-024-01181-1)
-- **The Role of Firm Age in the Impact of Right-to-Work Laws on Job Creation: Insights from Synthetic Control Analysis** With Israt Jahan, Economics Bulletin, 2025. [Link](https://www.accessecon.com/Pubs/EB/2025/Volume45/EB-25-V45-I3-P126.pdf)
-- **The Electoral Outcomes of Contractions in Mortgage Credits** (Forthcoming, Bulletin of Economic Research)
-   
 
+- **Democratization and Knowledge in Social Sciences** (with Sheida Teimouri), *Public Choice*, 2024. [Link](https://link.springer.com/article/10.1007/s11127-024-01181-1)
+- **The Role of Firm Age in the Impact of Right-to-Work Laws on Job Creation: Insights from Synthetic Control Analysis** (with Israt Jahan), *Economics Bulletin*, 2025. [Link](https://www.accessecon.com/Pubs/EB/2025/Volume45/EB-25-V45-I3-P126.pdf)
+- **The Electoral Outcomes of Contractions in Mortgage Credits**, forthcoming, *Bulletin of Economic Research*.
 
 ## Working Papers
-- **Elections, Political Races, and Mortgage Credit Market**, Under Review, Journal of Money, Credit, and Banking.
 
-- **Private Equity and Uncertainty: A Cross-country Analysis (With Sina Davoodi, University of Oregon)** (First Draft Coming Soon)  
-***Presented at**: Southern Economic Association Annual Meeting, 2023.*
-- **Entrepreneurship and Trade Shocks (With Saleh Tabrizy, University of Oklahoma, and Kasra Khademorezaian, State University of New York at New Paltz)**
+- **Elections, Political Races, and the Mortgage Market** (with Sheida Teimouri). Under review at the *Journal of Money, Credit, and Banking*.
+- **The Role of Policy Uncertainty in Private Equity Firms' Leveraged Buyout Activity** (with Sina Davoodi, University of Oregon). *First draft coming soon.*  
+  *Presented at:* Southern Economic Association Annual Meeting, 2023.
+- **Entrepreneurship and Trade Shocks** (with Saleh Tabrizy, University of Oklahoma, and Kasra Khademorezaian, State University of New York at New Paltz).
 
+## Work in Progress
 
-## Work in progress
+- **Climate Change and Voting Behavior: Evidence from California Wildfires** (with Sheida Teimouri).
+- **The Opportunity Cost of Running for Political Office: Evidence from the U.S.**
+- **Firms' Board of Directors and Lobbying: Evidence from the U.S.**
 
-- **Wildfires and Voting Behavior: Evidence from California (With Sheida Teimouri)**   
-- **The Opportunity Cost of Attending in Politics: Evidence from the U.S.**
-- **Firms’ Board of Directors and Lobbying: Evidence from the U.S.**
 <!-- Default Statcounter code for Job https://amirtayebi.github.io/ -->
 <script type="text/javascript">
 var sc_project=12683518; 
