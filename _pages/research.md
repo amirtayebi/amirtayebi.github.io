@@ -17,7 +17,6 @@ My primary research interest is in applied macroeconomics, including topics in g
 
 ## Working Papers
 - **Elections, Political Races, and Mortgage Credit Market**, Under Review, Journal of Money, Credit, and Banking.
-***Presented at**: Southern Economic Association Annual Meeting, 2022, Eastern Economic Association Annual Meeting, 2023.*
 
 - **Private Equity and Uncertainty: A Cross-country Analysis (With Sina Davoodi, University of Oregon)** (First Draft Coming Soon)  
 ***Presented at**: Southern Economic Association Annual Meeting, 2023.*
