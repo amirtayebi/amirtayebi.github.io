@@ -13,7 +13,7 @@ redirect_from:
 
 I am an Assistant Professor of Economics at the University of Wisconsin-La Crosse. My primary research interests include applied macroeconomics and financial economics.  In particular, I am interested in growth and development topics. I am also interested in the political economy of finance and credit markets.
 
-[Curriculum Vitae](/files/Amir CV.pdf)   
+[Curriculum Vitae](/files/CV_2026.pdf)   
 
 Email: [atayebi@uwlax.edu](mailto:atayebi@uwlax.edu)
 
