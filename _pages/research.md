@@ -9,24 +9,23 @@ My primary research interest is in applied macroeconomics, including topics in g
 
 
 ## Published and Forthcoming Papers
-- **Democratization and knowledge in social sciences** with Sheida Teimouri, Public Choice, 2024. [Link](https://link.springer.com/article/10.1007/s11127-024-01181-1)  
+- **Democratization and knowledge in social sciences** with Sheida Teimouri, Public Choice, 2024. [Link](https://link.springer.com/article/10.1007/s11127-024-01181-1)
+- **The Role of Firm Age in the Impact of Right-to-Work Laws on Job Creation: Insights from Synthetic Control Analysis** With Israt Jahan, Economics Bulletin, 2025. [Link](https://www.accessecon.com/Pubs/EB/2025/Volume45/EB-25-V45-I3-P126.pdf)
+- **The Electoral Outcomes of Contractions in Mortgage Credits** (Forthcoming, Bulletin of Economic Research)
    
 
 
 ## Working Papers
-- **The Electoral Outcomes of Contractions in Mortgage Credits** (R&R, Bulletin of Economic Research) [Link](/files/Elections1.pdf)  
-***Presented at**: Southern Economic Association Annual Meeting, 2021, St. Lawrence University, 2021.*
-
-- **Elections, Political Races, and Mortgage Credit Market** [Link](/files/Elections_Political_Races_and_Mortgage_Credit_Market.pdf)  
+- **Elections, Political Races, and Mortgage Credit Market**, Under Review, Journal of Money, Credit, and Banking.
 ***Presented at**: Southern Economic Association Annual Meeting, 2022, Eastern Economic Association Annual Meeting, 2023.*
 
 - **Private Equity and Uncertainty: A Cross-country Analysis (With Sina Davoodi, University of Oregon)** (First Draft Coming Soon)  
 ***Presented at**: Southern Economic Association Annual Meeting, 2023.*
+- **Entrepreneurship and Trade Shocks (With Saleh Tabrizy, University of Oklahoma, and Kasra Khademorezaian, State University of New York at New Paltz)**
 
-- **The Role of Firm Age in the Impact of Right-to-Work Laws on Job Creation: Insights from Synthetic Control Analysis** With Israt Jahan (Under Review)
 
 ## Work in progress
-- **Entrepreneurship and Trade Shocks (With Saleh Tabrizy, University of Oklahoma)**
+
 - **Wildfires and Voting Behavior: Evidence from California (With Sheida Teimouri)**   
 - **The Opportunity Cost of Attending in Politics: Evidence from the U.S.**
 - **Firms’ Board of Directors and Lobbying: Evidence from the U.S.**
