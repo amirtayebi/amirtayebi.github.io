@@ -9,7 +9,7 @@ My primary research interest is in applied macroeconomics, including topics in g
 
 - **Democratization and Knowledge in Social Sciences** (with Sheida Teimouri), *Public Choice*, 2024. [Link](https://link.springer.com/article/10.1007/s11127-024-01181-1)
 - **The Role of Firm Age in the Impact of Right-to-Work Laws on Job Creation: Insights from Synthetic Control Analysis** (with Israt Jahan), *Economics Bulletin*, 2025. [Link](https://www.accessecon.com/Pubs/EB/2025/Volume45/EB-25-V45-I3-P126.pdf)
-- **The Electoral Outcomes of Contractions in Mortgage Credits**, forthcoming, *Bulletin of Economic Research*.
+- **The Electoral Outcomes of Contractions in Mortgage Credits**, *Bulletin of Economic Research*, 2026. [Link](https://onlinelibrary.wiley.com/doi/10.1111/boer.70057)
 
 ## Working Papers
 
