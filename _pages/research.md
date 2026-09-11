@@ -13,10 +13,10 @@ My primary research interest is in applied macroeconomics, including topics in g
 
 ## Working Papers
 
-- **Elections, Political Races, and the Mortgage Market** (with Sheida Teimouri). Under review at the *Journal of Money, Credit, and Banking*.
+- **Elections, Political Races, and the Mortgage Market** (with Sheida Teimouri). Under review at the *Journal of Financial Stability*.
 - **The Role of Policy Uncertainty in Private Equity Firms' Leveraged Buyout Activity** (with Sina Davoodi, University of Oregon). *First draft coming soon.*  
   *Presented at:* Southern Economic Association Annual Meeting, 2023.
-- **Entrepreneurship and Trade Shocks** (with Saleh Tabrizy, University of Oklahoma, and Kasra Khademorezaian, State University of New York at New Paltz).
+- **Entrepreneurship and Trade Shocks** (with Saleh Tabrizy, University of Oklahoma, and Kasra Khademorezaian, State University of New York at New Paltz). Under review at the *Small Business Economics*.
 
 ## Work in Progress
 
